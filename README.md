@@ -5,12 +5,13 @@ http://www.thepandacoin.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2013-2014 Dogecoin Developers
 Copyright (c) 2014 ThePandacoin Developers
 
 What is ThePandacoin?
 ----------------
 
-ThePandacoin is a lite version of Bitcoin using scrypt-adaptive-N as a proof-of-work algorithm.
+ThePandacoin is a cryptocurrency based off Dogecoin that uses scrypt-adaptive-N as a proof-of-work algorithm.
  - 1 minute block target
  - subsidy halves in 840k blocks (~4 years)
  - 100 000 000 000(one hundred billion) total coins
