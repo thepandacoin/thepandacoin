@@ -1,0 +1,12 @@
+Building ThePandacoin
+
+See doc/readme-qt.rst for instructions on building ThePandacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ThePandacoin.
+
+See doc/build-*.txt for instructions on building thepandacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ThePandacoin.
+
+Further build information and documentation is available at
+the official ThePandacoin website, http://www.thepandacoin.org
